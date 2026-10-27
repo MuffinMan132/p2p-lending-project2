@@ -42,7 +42,7 @@ p2p-lending-project2/
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/p2p-lending-project2.git
+git clone https://github.com/<MuffinMan132>/p2p-lending-project2.git
 cd p2p-lending-project2
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
