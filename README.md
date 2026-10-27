@@ -1,6 +1,6 @@
 # Peer-to-Peer Lending Default Prediction
 
-Project 2 for [course name], NJIT.
+Project 2 for [FIN410-001], NJIT.
 Author: Kendrick Moreira
 
 ## Project summary
